@@ -96,7 +96,7 @@ Evaluation Metrics:
 
 ---
 ## Images 
-<img src="dashboard.png" width="800">
+<img src="Dashboard.png" width="800">
 ---
 
 ##  Results
